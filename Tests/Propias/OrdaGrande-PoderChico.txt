@@ -1,0 +1,22 @@
+# La primera línea indica la cantidad de minutos a considerar (n). Luego vienen n líneas que corresponden a los x_i, y luego los n valores que corresponden a la función f(.):
+10
+246567
+543263
+144643
+4422
+1244
+62345
+11333
+15222
+21325
+202554
+1
+2
+6
+7
+9
+12
+20
+22
+24
+30

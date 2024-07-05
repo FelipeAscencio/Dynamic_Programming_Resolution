@@ -1,0 +1,20 @@
+Los resultados mostrados aquí son óptimos.
+Es decir, el resultado de la cantidad de tropas es el máximo alcanzable con los valores brindados.
+Nosotros también mostramos qué secuencia de Carga y Ataque permiten llegar a ese resultado.
+Esto con el fin de demostrar el comportamiento que adquiere el algoritmo para hallar el óptimo.
+
+OrdaGrande-PoderChico.txt
+Estrategia: Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Atacar
+Cantidad de tropas eliminadas: 30
+
+OrdaGrande-PoderGrande.txt
+Estrategia: Atacar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Atacar, Atacar
+Cantidad de tropas eliminadas: 21399564
+
+OrdaChica-PoderChico.txt
+Estrategia: Cargar, Cargar, Atacar, Cargar, Cargar, Cargar, Cargar, Cargar, Cargar, Atacar
+Cantidad de tropas eliminadas: 26
+
+OrdaChica-PoderGrande.txt
+Estrategia: Atacar, Atacar, Atacar, Atacar, Atacar, Atacar, Atacar, Atacar, Atacar, Atacar
+Cantidad de tropas eliminadas: 144
