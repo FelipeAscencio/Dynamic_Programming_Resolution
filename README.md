@@ -1,7 +1,5 @@
 # Dynamic Programming for the Kingdom of Earth.
 
----
-
 ## Introduction
 
 In this project we seek to solve a problem that arises using "Dynamic Programming".
